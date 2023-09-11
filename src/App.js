@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +19,12 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+const App = () => {
+  return (
+    <div className="App">
+      <h1>Test</h1>
+>>>>>>> 191614b505608d5744ed9a2c1b3b6a206c196aae
     </div>
   );
 }
