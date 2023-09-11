@@ -1,6 +1,11 @@
+import React, { useContext } from "react";
+import { Link, Outlet } from "react-router-dom";
+
 const App = () => {
   return (
-    <h1 className="font-sans text-3xl font-bold underline">Hello world!</h1>
+    <div>
+      <Outlet />
+    </div>
   );
 };
 
