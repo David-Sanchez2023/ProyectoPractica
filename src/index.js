@@ -5,7 +5,7 @@ import App from "./App";
 import "./index.css";
 
 // Pages
-import Login from "./components/pages/Login";
+import Login from "./components/pages/Login/index";
 import Dashboard from "./components/pages/Dashboard";
 import Colaboradores from "./components/pages/Colaboradores";
 
