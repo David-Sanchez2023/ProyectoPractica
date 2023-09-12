@@ -4,6 +4,9 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App";
 import "./index.css";
 
+// API
+import { colaboradoresLoader } from "./services/api/colaboradores/Colaboradores";
+
 // Pages
 import Login from "./components/pages/Login";
 import Dashboard from "./components/pages/Dashboard";
@@ -21,6 +24,7 @@ const router = createBrowserRouter([
       {
         path: "colaboradores",
         element: <Colaboradores />,
+        loader: colaboradoresLoader,
       },
     ],
   },
