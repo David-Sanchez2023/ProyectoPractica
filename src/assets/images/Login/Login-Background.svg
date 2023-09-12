@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1922" height="1086" viewBox="0 0 1922 1086">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_45507" data-name="Rectángulo 45507" width="1112" height="588" transform="translate(-2)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_45508" data-name="Rectángulo 45508" width="1112" height="588" transform="translate(808 498)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_15804" data-name="Grupo 15804" transform="translate(2)">
+    <g id="Enmascarar_grupo_22" data-name="Enmascarar grupo 22" clip-path="url(#clip-path)">
+      <g id="Grupo_15800" data-name="Grupo 15800">
+        <path id="Trazado_52874" data-name="Trazado 52874" d="M181.337,841.823S225.553,567.486,507.062,659.5c0,0,73.692,52.823,193.076-102.237,109.17-141.8,228.752-203.014,405.452-216.972,62.417-4.929,198.3,15.512,244.437,64.36,25.134,26.609,29.009,40.044,42.828,89.564,52.9,189.577,190.128,344.2,253.5,351.017S181.337,841.823,181.337,841.823Z" transform="translate(778.662 236.426)" fill="#00b1d8" opacity="0.15"/>
+        <path id="Trazado_52875" data-name="Trazado 52875" d="M181.337,841.823S225.553,567.486,507.062,659.5c0,0,73.692,52.823,193.076-102.237,109.17-141.8,228.752-203.014,405.452-216.972,62.417-4.929,198.3,15.512,244.437,64.36,25.134,26.609,29.009,40.044,42.828,89.564,52.9,189.577,190.128,344.2,253.5,351.017S181.337,841.823,181.337,841.823Z" transform="translate(1141.336 840.574) rotate(180)" fill="#00b1d8" opacity="0.15"/>
+      </g>
+    </g>
+    <g id="Enmascarar_grupo_23" data-name="Enmascarar grupo 23" clip-path="url(#clip-path-2)">
+      <path id="Trazado_52874-2" data-name="Trazado 52874" d="M181.337,731.586s44.216-214.123,325.725-142.306c0,0,73.692,41.229,193.076-79.8C809.308,398.809,928.89,351.027,1105.59,340.133c62.417-3.847,198.3,12.107,244.437,50.234,25.134,20.768,29.009,31.255,42.828,69.906,52.9,147.967,190.128,268.652,253.5,273.973S181.337,731.586,181.337,731.586Z" transform="translate(812.664 347.925)" fill="#00b1d8" opacity="0.049"/>
+    </g>
+  </g>
+</svg>

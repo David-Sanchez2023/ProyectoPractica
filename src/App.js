@@ -1,8 +1,8 @@
-
+import Login from "./components/pages/Login";
 const App = () => {
   return (
     <div className="App">
-      <h1>Test</h1>
+      <Login />
     </div>
   );
 }
