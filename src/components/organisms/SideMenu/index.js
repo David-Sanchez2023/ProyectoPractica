@@ -2,7 +2,7 @@ import React from 'react'
 
 const SideMenu = () => {
   return (
-    <div>
+    <div> 
       <section id="sidebar">
             <a href="#" class="encabezado_sidebar"><img src="./imagenes/logo.png" alt="" width="53px" /> Técnología EDS</a>
             <ul class="menu">
