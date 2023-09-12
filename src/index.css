@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 body {
     margin: 0;
     padding: 0;
 }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> aaed58ee93f4c027bbe37fc96bbd8e30a13589cc
